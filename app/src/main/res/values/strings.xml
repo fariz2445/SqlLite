@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Contact App Bima</string>
+
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="kontak_baru">Tambah Kontak Baru</string>
+
+</resources>
